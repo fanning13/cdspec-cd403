@@ -1,0 +1,369 @@
+{
+  "corridors": [
+    {
+      "corridor": "37th Avenue",
+      "n": 90,
+      "groups": {
+        "South Asian": 9,
+        "Latin American / regional": 22,
+        "Other recorded cuisines": 42,
+        "East / Southeast Asian & Asian fusion": 12,
+        "Unspecified": 3,
+        "Mexican": 2
+      },
+      "top": [
+        [
+          "Latin American",
+          20
+        ],
+        [
+          "Bakery Products/Desserts",
+          7
+        ],
+        [
+          "American",
+          7
+        ],
+        [
+          "Pizza",
+          6
+        ],
+        [
+          "Bangladeshi",
+          5
+        ]
+      ],
+      "cuisines": 24,
+      "within5": 60,
+      "within10": 90
+    },
+    {
+      "corridor": "Northern Boulevard",
+      "n": 83,
+      "groups": {
+        "Mexican": 5,
+        "Latin American / regional": 29,
+        "Other recorded cuisines": 35,
+        "Unspecified": 8,
+        "East / Southeast Asian & Asian fusion": 5,
+        "South Asian": 1
+      },
+      "top": [
+        [
+          "Latin American",
+          25
+        ],
+        [
+          "American",
+          7
+        ],
+        [
+          "Mexican",
+          5
+        ],
+        [
+          "Chicken",
+          5
+        ],
+        [
+          "Peruvian",
+          4
+        ]
+      ],
+      "cuisines": 23,
+      "within5": 0,
+      "within10": 4
+    },
+    {
+      "corridor": "Roosevelt Avenue",
+      "n": 53,
+      "groups": {
+        "Mexican": 11,
+        "Latin American / regional": 26,
+        "Other recorded cuisines": 9,
+        "Unspecified": 2,
+        "East / Southeast Asian & Asian fusion": 5
+      },
+      "top": [
+        [
+          "Latin American",
+          22
+        ],
+        [
+          "Mexican",
+          11
+        ],
+        [
+          "Asian/Asian Fusion",
+          4
+        ],
+        [
+          "Peruvian",
+          3
+        ],
+        [
+          "Bakery Products/Desserts",
+          2
+        ]
+      ],
+      "cuisines": 13,
+      "within5": 53,
+      "within10": 53
+    },
+    {
+      "corridor": "Other streets",
+      "n": 103,
+      "groups": {
+        "Other recorded cuisines": 46,
+        "East / Southeast Asian & Asian fusion": 14,
+        "South Asian": 15,
+        "Latin American / regional": 16,
+        "Unspecified": 8,
+        "Mexican": 4
+      },
+      "top": [
+        [
+          "Latin American",
+          14
+        ],
+        [
+          "Bangladeshi",
+          10
+        ],
+        [
+          "American",
+          8
+        ],
+        [
+          "Bakery Products/Desserts",
+          7
+        ],
+        [
+          "Juice, Smoothies, Fruit Salads",
+          6
+        ]
+      ],
+      "cuisines": 28,
+      "within5": 50,
+      "within10": 74
+    }
+  ],
+  "cuisine_access": [
+    {
+      "group": "Other recorded cuisines",
+      "n": 132,
+      "within10": 85
+    },
+    {
+      "group": "Mexican",
+      "n": 22,
+      "within10": 16
+    },
+    {
+      "group": "East / Southeast Asian & Asian fusion",
+      "n": 36,
+      "within10": 29
+    },
+    {
+      "group": "South Asian",
+      "n": 25,
+      "within10": 23
+    },
+    {
+      "group": "Latin American / regional",
+      "n": 93,
+      "within10": 59
+    },
+    {
+      "group": "Unspecified",
+      "n": 21,
+      "within10": 9
+    }
+  ],
+  "tracts": [
+    {
+      "tract": "027302",
+      "population": 4765,
+      "restaurants": 13,
+      "area_km2": 0.11649978157456797,
+      "pop_density": 40901.364239469134,
+      "rest_density": 111.58819204891894,
+      "per1000": 2.728226652675761
+    },
+    {
+      "tract": "027500",
+      "population": 6773,
+      "restaurants": 17,
+      "area_km2": 0.17747127453860723,
+      "pop_density": 38163.92268331063,
+      "rest_density": 95.790149950728,
+      "per1000": 2.509966041635907
+    },
+    {
+      "tract": "027701",
+      "population": 3448,
+      "restaurants": 12,
+      "area_km2": 0.07370060891215427,
+      "pop_density": 46783.87398548856,
+      "rest_density": 162.82090714207152,
+      "per1000": 3.480278422273782
+    },
+    {
+      "tract": "027702",
+      "population": 5196,
+      "restaurants": 12,
+      "area_km2": 0.10047475409266719,
+      "pop_density": 51714.48337368175,
+      "rest_density": 119.43298700619341,
+      "per1000": 2.3094688221709005
+    },
+    {
+      "tract": "027900",
+      "population": 6358,
+      "restaurants": 22,
+      "area_km2": 0.17761872810365434,
+      "pop_density": 35795.77484807577,
+      "rest_density": 123.86081262309958,
+      "per1000": 3.4602076124567476
+    },
+    {
+      "tract": "028100",
+      "population": 5991,
+      "restaurants": 28,
+      "area_km2": 0.17429725575408891,
+      "pop_density": 34372.31397637455,
+      "rest_density": 160.6450995390565,
+      "per1000": 4.673677182440327
+    },
+    {
+      "tract": "028300",
+      "population": 7523,
+      "restaurants": 33,
+      "area_km2": 0.17761100093072132,
+      "pop_density": 42356.61057354443,
+      "rest_density": 185.7993019974699,
+      "per1000": 4.38654791971288
+    },
+    {
+      "tract": "028500",
+      "population": 4858,
+      "restaurants": 27,
+      "area_km2": 0.15795331444831776,
+      "pop_density": 30755.923147086192,
+      "rest_density": 170.93658397927692,
+      "per1000": 5.5578427336352405
+    },
+    {
+      "tract": "028700",
+      "population": 6544,
+      "restaurants": 24,
+      "area_km2": 0.19538885939975556,
+      "pop_density": 33492.185890759065,
+      "rest_density": 122.8319775944709,
+      "per1000": 3.667481662591687
+    },
+    {
+      "tract": "028900",
+      "population": 5202,
+      "restaurants": 34,
+      "area_km2": 0.17258393283988097,
+      "pop_density": 30141.855701169385,
+      "rest_density": 197.00559281810055,
+      "per1000": 6.5359477124183005
+    },
+    {
+      "tract": "030903",
+      "population": 6748,
+      "restaurants": 13,
+      "area_km2": 0.35149613487237785,
+      "pop_density": 19197.935142160473,
+      "rest_density": 36.98475946177921,
+      "per1000": 1.9264967397747481
+    },
+    {
+      "tract": "032700",
+      "population": 3932,
+      "restaurants": 15,
+      "area_km2": 0.15075688518439032,
+      "pop_density": 26081.727512416976,
+      "rest_density": 99.4979432060668,
+      "per1000": 3.8148524923702953
+    },
+    {
+      "tract": "033700",
+      "population": 3765,
+      "restaurants": 13,
+      "area_km2": 0.15075156163505166,
+      "pop_density": 24974.8656608582,
+      "rest_density": 86.2345959073457,
+      "per1000": 3.452855245683931
+    },
+    {
+      "tract": "033900",
+      "population": 3481,
+      "restaurants": 7,
+      "area_km2": 0.15072463421396515,
+      "pop_density": 23095.096685114222,
+      "rest_density": 46.442308760643364,
+      "per1000": 2.010916403332376
+    },
+    {
+      "tract": "035100",
+      "population": 4178,
+      "restaurants": 8,
+      "area_km2": 0.13915224784260577,
+      "pop_density": 30024.667691503695,
+      "rest_density": 57.49098648444939,
+      "per1000": 1.9147917663954046
+    },
+    {
+      "tract": "027301",
+      "population": 3673,
+      "restaurants": 24,
+      "area_km2": 0.09857011515254316,
+      "pop_density": 37262.81535043164,
+      "rest_density": 243.48150514847794,
+      "per1000": 6.534168254832562
+    },
+    {
+      "tract": "030904",
+      "population": 3724,
+      "restaurants": 2,
+      "area_km2": 0.41418377045046934,
+      "pop_density": 8991.177988335347,
+      "rest_density": 4.828774429825643,
+      "per1000": 0.5370569280343717
+    },
+    {
+      "tract": "030906",
+      "population": 4924,
+      "restaurants": 3,
+      "area_km2": 0.216551408593676,
+      "pop_density": 22738.24969312066,
+      "rest_density": 13.853523371113319,
+      "per1000": 0.6092607636068238
+    },
+    {
+      "tract": "030905",
+      "population": 3424,
+      "restaurants": 0,
+      "area_km2": 0.19318690024491617,
+      "pop_density": 17723.769032264416,
+      "rest_density": 0.0,
+      "per1000": 0.0
+    },
+    {
+      "tract": "029100",
+      "population": 7341,
+      "restaurants": 22,
+      "area_km2": 0.2612272707376455,
+      "pop_density": 28101.96645729487,
+      "rest_density": 84.2178534342034,
+      "per1000": 2.9968669118648688
+    }
+  ],
+  "spearman_density": 0.7503759398496239,
+  "street_km_total": 64.99000511663158,
+  "population_total": 101848,
+  "restaurants_total": 329
+}

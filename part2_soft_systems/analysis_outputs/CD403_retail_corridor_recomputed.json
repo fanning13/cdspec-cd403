@@ -1,0 +1,11 @@
+{
+  "total_lots": 14602,
+  "retail_lots": 1046,
+  "retail_corridors": {
+    "Other streets": 487,
+    "Northern Boulevard": 255,
+    "37th Avenue": 138,
+    "Roosevelt Avenue": 166
+  },
+  "three_corridors_retail": 559
+}

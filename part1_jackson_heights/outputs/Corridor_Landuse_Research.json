@@ -1,0 +1,133 @@
+{
+  "study_NTA_lots": 6749,
+  "NTA_retail_lots": 470,
+  "corridors": [
+    {
+      "corridor": "37th Avenue",
+      "frontage_lots": 78,
+      "frontage_retail_lots": 57,
+      "frontage_mixed_res_com_lots": 24,
+      "frontage_retail_area_sqft": 475677.0,
+      "frontage_zoning": {
+        "R5": 19,
+        "R7-1": 25,
+        "C4-3": 16,
+        "R6": 1,
+        "R6B": 10,
+        "R6A": 7
+      },
+      "frontage_overlays": {
+        "none_recorded": 32,
+        "C1-3": 20,
+        "C1-2": 2,
+        "C1-4": 24
+      },
+      "nearby_residential_units_200m": 13121.0,
+      "school_program_records_200m": 4,
+      "unique_school_addresses_200m": 4,
+      "schools": [
+        {
+          "facname": "P.S. 069 JACKSON HEIGHTS",
+          "address": "77-02 37 AVENUE"
+        },
+        {
+          "facname": "RENAISSANCE CHARTER SCHOOL",
+          "address": "35-59 81 STREET"
+        },
+        {
+          "facname": "ST JOAN OF ARC SCHOOL",
+          "address": "35-27 82 STREET"
+        },
+        {
+          "facname": "JACKSON DEVELOPMENTAL CENTER JACKSON",
+          "address": "35-29 82 STREET"
+        }
+      ],
+      "hotel_class_H_lots_200m": [
+        {
+          "address": "37-59 81 STREET",
+          "bldgclass": "H3"
+        }
+      ]
+    },
+    {
+      "corridor": "Northern Boulevard",
+      "frontage_lots": 130,
+      "frontage_retail_lots": 112,
+      "frontage_mixed_res_com_lots": 79,
+      "frontage_retail_area_sqft": 424811.0,
+      "frontage_zoning": {
+        "R4": 106,
+        "C8-1": 14,
+        "R5": 9,
+        "C4-3": 1
+      },
+      "frontage_overlays": {
+        "C1-2": 105,
+        "none_recorded": 16,
+        "C2-2": 9
+      },
+      "nearby_residential_units_200m": 7781.0,
+      "school_program_records_200m": 5,
+      "unique_school_addresses_200m": 5,
+      "schools": [
+        {
+          "facname": "THE HECTOR FIGUEROA SCHOOL",
+          "address": "69-01 34 AVENUE"
+        },
+        {
+          "facname": "I.S. 145 JOSEPH PULITZER",
+          "address": "33-34 80 STREET"
+        },
+        {
+          "facname": "P.S. 148 QUEENS",
+          "address": "89-02 32 AVENUE"
+        },
+        {
+          "facname": "GARDEN SCHOOL",
+          "address": "33-16 79 STREET"
+        },
+        {
+          "facname": "P.S. 149 CHRISTA MCAULIFFE",
+          "address": "93-11 34 AVENUE"
+        }
+      ],
+      "hotel_class_H_lots_200m": []
+    },
+    {
+      "corridor": "Roosevelt Avenue",
+      "frontage_lots": 119,
+      "frontage_retail_lots": 109,
+      "frontage_mixed_res_com_lots": 46,
+      "frontage_retail_area_sqft": 333601.0,
+      "frontage_zoning": {
+        "C4-3": 19,
+        "R6": 95,
+        "R6A": 5
+      },
+      "frontage_overlays": {
+        "none_recorded": 19,
+        "C2-3": 41,
+        "C1-3": 3,
+        "C1-4": 11,
+        "C2-4": 45
+      },
+      "nearby_residential_units_200m": 4306.0,
+      "school_program_records_200m": 1,
+      "unique_school_addresses_200m": 1,
+      "schools": [
+        {
+          "facname": "P.S. 069 JACKSON HEIGHTS",
+          "address": "77-02 37 AVENUE"
+        }
+      ],
+      "hotel_class_H_lots_200m": [
+        {
+          "address": "37-59 81 STREET",
+          "bldgclass": "H3"
+        }
+      ]
+    }
+  ],
+  "method": "PLUTO 26v2 point-in-NTA, address-based frontage; 200m straight-line corridor buffers clipped to NTA, overlapping, not walking catchments. Residential units are housing supply not population or occupied units. Schools deduplicated by address as preliminary sites; H class is property classification, not verified operating hotels."
+}

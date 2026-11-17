@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "schools_k12",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "facname": "OUR LADY OF FATIMA CATHOLIC ACADEMY", "address": "25-38 80 STREET", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.888745407900004, 40.76158818879999 ] } },
+{ "type": "Feature", "properties": { "facname": "P.S. 069 JACKSON HEIGHTS", "address": "77-02 37 AVENUE", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.888592474399999, 40.748842082399996 ] } },
+{ "type": "Feature", "properties": { "facname": "JACKSON DEVELOPMENTAL CNTR ANNEX", "address": "88-23 31 AVENUE", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.8798478872, 40.760101234699988 ] } },
+{ "type": "Feature", "properties": { "facname": "HELEN M. MARSHALL SCHOOL", "address": "110-08 NORTHERN BOULEVARD", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.8589310463, 40.757682024499992 ] } },
+{ "type": "Feature", "properties": { "facname": "I.S. 227 LOUIS ARMSTRONG", "address": "32-02 JUNCTION BOULEVARD", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.874696231800002, 40.757942808300001 ] } },
+{ "type": "Feature", "properties": { "facname": "THE HECTOR FIGUEROA SCHOOL", "address": "69-01 34 AVENUE", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.896700716899986, 40.752785105499996 ] } },
+{ "type": "Feature", "properties": { "facname": "NY CENTER FOR CHILD DEV CORONA", "address": "34-10 108 STREET", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.8608886703, 40.755867987699993 ] } },
+{ "type": "Feature", "properties": { "facname": "I.S. 230", "address": null, "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.892883, 40.752616 ] } },
+{ "type": "Feature", "properties": { "facname": "OUR LADY OF SORROWS CATHOLIC ACADEMY", "address": "35-34 105 STREET", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.863313541099998, 40.754173416 ] } },
+{ "type": "Feature", "properties": { "facname": "LEXINGTON SCHOOL FOR THE DEAF", "address": "26-26 75 STREET", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.893740454400003, 40.761293241400004 ] } },
+{ "type": "Feature", "properties": { "facname": "P.S. 092 HARRY T. STEWART SR.", "address": "99-01 34 AVENUE", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.868684513, 40.756018905699996 ] } },
+{ "type": "Feature", "properties": { "facname": "I.S. 145 JOSEPH PULITZER", "address": "33-34 80 STREET", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.887425355, 40.754270682599994 ] } },
+{ "type": "Feature", "properties": { "facname": "PS280Q: HOME OF THE LIONHEARTS", "address": "34-20 94 STREET", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.873944346800002, 40.753829292799992 ] } },
+{ "type": "Feature", "properties": { "facname": "RENAISSANCE CHARTER SCHOOL", "address": "35-59 81 STREET", "facsubgrp": "CHARTER K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.884826556099995, 40.749936113 ] } },
+{ "type": "Feature", "properties": { "facname": "EAST ELMHURST COMMUNITY SCHOOL", "address": "26-25 97 STREET", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.871955901600003, 40.761678096899992 ] } },
+{ "type": "Feature", "properties": { "facname": "P.S. 148 QUEENS", "address": "89-02 32 AVENUE", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.878696843, 40.75797915430001 ] } },
+{ "type": "Feature", "properties": { "facname": "P.S. 127 AEROSPACE SCIENCE MAGNET SCHOOL", "address": "98-01 25 AVENUE", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.871388839600002, 40.765088026100003 ] } },
+{ "type": "Feature", "properties": { "facname": "GARDEN SCHOOL", "address": "33-16 79 STREET", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.888455159700001, 40.75441787039999 ] } },
+{ "type": "Feature", "properties": { "facname": "P.S. 143 LOUIS ARMSTRONG", "address": "34-55 112 STREET", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.855863626200005, 40.75521309949999 ] } },
+{ "type": "Feature", "properties": { "facname": "P.S. 149 CHRISTA MCAULIFFE", "address": "93-11 34 AVENUE", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.874427718599989, 40.755291243700007 ] } },
+{ "type": "Feature", "properties": { "facname": "ABC CHILDREN NP INC", "address": "112-08 37 AVENUE", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.855366911199994, 40.754297467100002 ] } },
+{ "type": "Feature", "properties": { "facname": "P.S. 212", "address": "34-25 82 STREET", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.884630965, 40.753139968299998 ] } },
+{ "type": "Feature", "properties": { "facname": "MONSIGNOR MCCLANCY MEMORIAL HS", "address": "71-06 31 AVENUE", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.895132099199984, 40.757935245499993 ] } },
+{ "type": "Feature", "properties": { "facname": "MS 419", "address": "111-10 ASTORIA BOULEVARD", "facsubgrp": "PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.858693073400005, 40.759518847500004 ] } },
+{ "type": "Feature", "properties": { "facname": "ST JOAN OF ARC SCHOOL", "address": "35-27 82 STREET", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.884368843100006, 40.7512829522 ] } },
+{ "type": "Feature", "properties": { "facname": "JACKSON DEVELOPMENTAL CENTER JACKSON", "address": "35-29 82 STREET", "facsubgrp": "NON-PUBLIC K-12 SCHOOLS" }, "geometry": { "type": "Point", "coordinates": [ -73.884187388100003, 40.750925887300006 ] } }
+]
+}

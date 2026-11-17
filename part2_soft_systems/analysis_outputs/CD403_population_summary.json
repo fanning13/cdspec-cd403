@@ -1,0 +1,35 @@
+{
+  "population2020": 179134,
+  "groups": [
+    {
+      "label": "Hispanic / Latino (any race)",
+      "count": 113447,
+      "percent": 63.33080263936495
+    },
+    {
+      "label": "Asian, non-Hispanic",
+      "count": 34456,
+      "percent": 19.234762803264598
+    },
+    {
+      "label": "White, non-Hispanic",
+      "count": 17643,
+      "percent": 9.849051548003171
+    },
+    {
+      "label": "Black, non-Hispanic",
+      "count": 8690,
+      "percent": 4.8511170408744295
+    },
+    {
+      "label": "Other race, non-Hispanic",
+      "count": 2210,
+      "percent": 1.2337133095894692
+    },
+    {
+      "label": "Two or more races, non-Hispanic",
+      "count": 2688,
+      "percent": 1.5005526589033908
+    }
+  ]
+}

@@ -1,0 +1,2397 @@
+[
+  {
+    "object_id": "263",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "33.4216798676",
+    "segmentidt": "0152516",
+    "segmentidf": "0152516",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89715726900846,
+            40.75245698572436
+          ],
+          [
+            -73.89705160055586,
+            40.7525012331622
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "264",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.039763393",
+    "segmentidt": "0152873",
+    "segmentidf": "0152873",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87572997723949,
+            40.754660509135824
+          ],
+          [
+            -73.87480201131594,
+            40.754767601079095
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "265",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.45611829",
+    "segmentidt": "0152936",
+    "segmentidf": "0152936",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.8803944511152,
+            40.754257463392385
+          ],
+          [
+            -73.87946297673437,
+            40.75435401728946
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "266",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.343555225",
+    "segmentidt": "0152950",
+    "segmentidf": "0152950",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88132235355795,
+            40.754163627719095
+          ],
+          [
+            -73.8803944511152,
+            40.754257463392385
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "267",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.207124659",
+    "segmentidt": "0152970",
+    "segmentidf": "0152970",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88316798434425,
+            40.7538780908337
+          ],
+          [
+            -73.88223775942433,
+            40.7539765054642
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "268",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.755601193",
+    "segmentidt": "0153051",
+    "segmentidf": "0153051",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89246656053848,
+            40.752911204047464
+          ],
+          [
+            -73.89153637689665,
+            40.75300034744038
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "269",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.769344087",
+    "segmentidt": "0153059",
+    "segmentidf": "0153059",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89619819425857,
+            40.752593146485445
+          ],
+          [
+            -73.89526532406734,
+            40.75268813393489
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "270",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.984294132",
+    "segmentidt": "0153067",
+    "segmentidf": "0153067",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87574710144773,
+            40.754755287882105
+          ],
+          [
+            -73.87481744766366,
+            40.75485244554507
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "271",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.793580685",
+    "segmentidt": "0153113",
+    "segmentidf": "0153113",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89432229697792,
+            40.752711523269674
+          ],
+          [
+            -73.8933897385441,
+            40.752808765093675
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "272",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.541489615",
+    "segmentidt": "0153144",
+    "segmentidf": "0153144",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89155178802983,
+            40.75308442330976
+          ],
+          [
+            -73.89061993388877,
+            40.75318050063391
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "273",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.478094541",
+    "segmentidt": "0153179",
+    "segmentidf": "0153179",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87852079061304,
+            40.75436834604385
+          ],
+          [
+            -73.87758913533159,
+            40.75446434429692
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "274",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.352313265",
+    "segmentidt": "0153243",
+    "segmentidf": "0153243",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88130574852767,
+            40.75407217320478
+          ],
+          [
+            -73.88037843319854,
+            40.75416947630304
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "275",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.008306505",
+    "segmentidt": "0153280",
+    "segmentidf": "0153280",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89526532406734,
+            40.75268813393489
+          ],
+          [
+            -73.89433755893178,
+            40.75279551848474
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "276",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.511418664",
+    "segmentidt": "0153286",
+    "segmentidf": "0153286",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87853519996877,
+            40.754447460808215
+          ],
+          [
+            -73.8776051020358,
+            40.754552457790616
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "277",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.213937919",
+    "segmentidt": "0153306",
+    "segmentidf": "0153306",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87758913533159,
+            40.75446434429692
+          ],
+          [
+            -73.87665879995191,
+            40.75456233465308
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "278",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.808059065",
+    "segmentidt": "0153320",
+    "segmentidf": "0153320",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.8961854307138,
+            40.75252296753448
+          ],
+          [
+            -73.89525205677165,
+            40.752615865248046
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "279",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.867840095",
+    "segmentidt": "0153364",
+    "segmentidf": "0153364",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89060571031546,
+            40.75310226825239
+          ],
+          [
+            -73.88967658623733,
+            40.75319988040478
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "280",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "328.582394363",
+    "segmentidt": "0153365",
+    "segmentidf": "0153365",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87388541804204,
+            40.754939588481356
+          ],
+          [
+            -73.87271067401507,
+            40.755063520770285
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "281",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.273759561",
+    "segmentidt": "0153388",
+    "segmentidf": "0153388",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88690314972068,
+            40.753574863086484
+          ],
+          [
+            -73.88597226363176,
+            40.753670938888874
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "282",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.673367453",
+    "segmentidt": "0153518",
+    "segmentidf": "0153518",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88597226363176,
+            40.753670938888874
+          ],
+          [
+            -73.8850428033547,
+            40.753762667252175
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "283",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.817275777",
+    "segmentidt": "0153542",
+    "segmentidf": "0153542",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88409736020752,
+            40.75378285563047
+          ],
+          [
+            -73.88316798434425,
+            40.7538780908337
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "284",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.686110481",
+    "segmentidt": "0153546",
+    "segmentidf": "0153546",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89248074927131,
+            40.752989607263004
+          ],
+          [
+            -73.89155178802983,
+            40.75308442330976
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "285",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.891947749",
+    "segmentidt": "0153552",
+    "segmentidf": "0153552",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89061993388877,
+            40.75318050063391
+          ],
+          [
+            -73.88969104266643,
+            40.75327986821061
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "286",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.510692588",
+    "segmentidt": "0153555",
+    "segmentidf": "0153555",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89153637689665,
+            40.75300034744038
+          ],
+          [
+            -73.89060571031546,
+            40.75310226825239
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "287",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.222209851",
+    "segmentidt": "0153615",
+    "segmentidf": "0153615",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.8776051020358,
+            40.754552457790616
+          ],
+          [
+            -73.87667506996807,
+            40.75465226852366
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "288",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.492041639",
+    "segmentidt": "0153655",
+    "segmentidf": "0153655",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88502886804369,
+            40.75368580414008
+          ],
+          [
+            -73.88409736020752,
+            40.75378285563047
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "289",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.197369593",
+    "segmentidt": "0153669",
+    "segmentidf": "0153669",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88688775447339,
+            40.75349179337716
+          ],
+          [
+            -73.8859568135523,
+            40.75358597793778
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "290",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "262.31419201",
+    "segmentidt": "0153679",
+    "segmentidf": "0153679",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.8850428033547,
+            40.753762667252175
+          ],
+          [
+            -73.88410673992288,
+            40.753870727463436
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "291",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.439296758",
+    "segmentidt": "0153690",
+    "segmentidf": "0153690",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88037843319854,
+            40.75416947630304
+          ],
+          [
+            -73.87944713649308,
+            40.754266670516465
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "292",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.822026323",
+    "segmentidt": "0153700",
+    "segmentidf": "0153700",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87667506996807,
+            40.75465226852366
+          ],
+          [
+            -73.87574710144773,
+            40.754755287882105
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "293",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.308269249",
+    "segmentidt": "0153734",
+    "segmentidf": "0153734",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87944713649308,
+            40.754266670516465
+          ],
+          [
+            -73.87852079061304,
+            40.75436834604385
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "294",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "336.033847688",
+    "segmentidt": "0153765",
+    "segmentidf": "0153765",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87387016070036,
+            40.754855258275356
+          ],
+          [
+            -73.87266966985626,
+            40.75498679824508
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "295",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "258.019133969",
+    "segmentidt": "0153786",
+    "segmentidf": "0153786",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88410673992288,
+            40.753870727463436
+          ],
+          [
+            -73.88318405207386,
+            40.753966743960284
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "296",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.793363284",
+    "segmentidt": "0153802",
+    "segmentidf": "0153802",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89433755893178,
+            40.75279551848474
+          ],
+          [
+            -73.89340443486667,
+            40.752889572116565
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "297",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.289514209",
+    "segmentidt": "0153810",
+    "segmentidf": "0153810",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87946297673437,
+            40.75435401728946
+          ],
+          [
+            -73.87853519996877,
+            40.754447460808215
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "298",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.201230528",
+    "segmentidt": "0153853",
+    "segmentidf": "0153853",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88318405207386,
+            40.753966743960284
+          ],
+          [
+            -73.88225301590495,
+            40.754060501373395
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "299",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.561097774",
+    "segmentidt": "0153867",
+    "segmentidf": "0153867",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88223775942433,
+            40.7539765054642
+          ],
+          [
+            -73.88130574852767,
+            40.75407217320478
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "300",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.947773038",
+    "segmentidt": "0153880",
+    "segmentidf": "0153880",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89525205677165,
+            40.752615865248046
+          ],
+          [
+            -73.89432229697792,
+            40.752711523269674
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "301",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.807668471",
+    "segmentidt": "0153916",
+    "segmentidf": "0153916",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87665879995191,
+            40.75456233465308
+          ],
+          [
+            -73.87572997723949,
+            40.754660509135824
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "302",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "258.485177154",
+    "segmentidt": "0153949",
+    "segmentidf": "0153949",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.8933897385441,
+            40.752808765093675
+          ],
+          [
+            -73.89246656053848,
+            40.752911204047464
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "303",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.654287763",
+    "segmentidt": "0153952",
+    "segmentidf": "0153952",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.8859568135523,
+            40.75358597793778
+          ],
+          [
+            -73.88502886804369,
+            40.75368580414008
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "304",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.568437599",
+    "segmentidt": "0153965",
+    "segmentidf": "0153965",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88225301590495,
+            40.754060501373395
+          ],
+          [
+            -73.88132235355795,
+            40.754163627719095
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "305",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.797247277",
+    "segmentidt": "0153969",
+    "segmentidf": "0153969",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88781742388635,
+            40.753398680663516
+          ],
+          [
+            -73.88688775447339,
+            40.75349179337716
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "378",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "272.995599601",
+    "segmentidt": "0153824",
+    "segmentidf": "0152515",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89715726900846,
+            40.75245698572436
+          ],
+          [
+            -73.89704298191411,
+            40.75243100307964
+          ]
+        ],
+        [
+          [
+            -73.89704298191411,
+            40.75243100307964
+          ],
+          [
+            -73.8961854307138,
+            40.75252296753448
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "383",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.687841782",
+    "segmentidt": "0153719",
+    "segmentidf": "0153719",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88967658623733,
+            40.75319988040478
+          ],
+          [
+            -73.88874882665968,
+            40.75330132163808
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "384",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "258.499103916",
+    "segmentidt": "0153718",
+    "segmentidf": "0153718",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89340443486667,
+            40.752889572116565
+          ],
+          [
+            -73.89248074927131,
+            40.752989607263004
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "385",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.65719474",
+    "segmentidt": "0153279",
+    "segmentidf": "0153279",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88969104266643,
+            40.75327986821061
+          ],
+          [
+            -73.88876187499983,
+            40.75337292448723
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "386",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "238.806232187",
+    "segmentidt": "0154004",
+    "segmentidf": "0154004",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.89705160055586,
+            40.7525012331622
+          ],
+          [
+            -73.89619819425857,
+            40.752593146485445
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "387",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.139672242",
+    "segmentidt": "0152874",
+    "segmentidf": "0152874",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87480201131594,
+            40.754767601079095
+          ],
+          [
+            -73.87387016070036,
+            40.754855258275356
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "388",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.165635024",
+    "segmentidt": "0153240",
+    "segmentidf": "0153240",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.87481744766366,
+            40.75485244554507
+          ],
+          [
+            -73.87388541804204,
+            40.754939588481356
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "389",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.679464127",
+    "segmentidt": "0153746",
+    "segmentidf": "0153746",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88876187499983,
+            40.75337292448723
+          ],
+          [
+            -73.88782926789756,
+            40.75346760884225
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "390",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "259.547083102",
+    "segmentidt": "0153484",
+    "segmentidf": "0153484",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88782926789756,
+            40.75346760884225
+          ],
+          [
+            -73.88690314972068,
+            40.753574863086484
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "object_id": "391",
+    "orgname": "34th Avenue Open Streets Coalition",
+    "appronstre": "34 AVENUE",
+    "boroughname": "Queens",
+    "apprfromst": "69 STREET",
+    "apprtostre": "JUNCTION BOULEVARD",
+    "apprdayswe": "mon,tue,wed,thu,fri,sat,sun",
+    "reviewstat": "approvedLimited",
+    "apprmonope": "07:00",
+    "apprmonclo": "20:00",
+    "apprtueope": "07:00",
+    "apprtueclo": "20:00",
+    "apprwedope": "07:00",
+    "apprwedclo": "20:00",
+    "apprthuope": "07:00",
+    "apprthuclo": "20:00",
+    "apprfriope": "07:00",
+    "apprfriclo": "20:00",
+    "apprsatope": "07:00",
+    "apprsatclo": "20:00",
+    "apprsunope": "07:00",
+    "apprsunclo": "20:00",
+    "apprstartd": "2024-02-01T00:00:00",
+    "apprenddat": "2024-12-31T00:00:00",
+    "shape_stle": "260.479911597",
+    "segmentidt": "0153175",
+    "segmentidf": "0153175",
+    "lionversion": "23C",
+    "the_geom": {
+      "type": "MultiLineString",
+      "coordinates": [
+        [
+          [
+            -73.88874882665968,
+            40.75330132163808
+          ],
+          [
+            -73.88781742388635,
+            40.753398680663516
+          ]
+        ]
+      ]
+    }
+  }
+]

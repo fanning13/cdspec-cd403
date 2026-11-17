@@ -1,0 +1,212 @@
+[
+  {
+    "file": "analysis_outputs/cd403_boundary.geojson",
+    "bytes": 23093,
+    "sha256": "5526b61dfa0ea28921ac7f38c40e4575b9dfdffbba1d4daaba4d768cab963266"
+  },
+  {
+    "file": "analysis_outputs/CD403_Density_Contours_Boundary.geojson",
+    "bytes": 46555,
+    "sha256": "6fedfccb8cb0071ad2c3d085505522eb40314e413a36ca717806c0f337d7b769"
+  },
+  {
+    "file": "analysis_outputs/CD403_food_geography_summary.json",
+    "bytes": 2463,
+    "sha256": "c8b36d00483d0c803754e923a35b175d0738048f957fb49b2a5d0106ed7b0197"
+  },
+  {
+    "file": "analysis_outputs/CD403_landuse_summary.json",
+    "bytes": 272,
+    "sha256": "20dc09357ca2b4a448a63f5d3745b437f42234caeb6f2e9a2c91d3fa567972c3"
+  },
+  {
+    "file": "analysis_outputs/CD403_Neighborhood_Context.geojson",
+    "bytes": 19516,
+    "sha256": "20354e58f01a968fcdf79350f9170c6afd3f6fce97732c0bd54d4f1e0a342c74"
+  },
+  {
+    "file": "analysis_outputs/CD403_population_summary.json",
+    "bytes": 758,
+    "sha256": "34af4d367759923ac441aaf292704ae748f21a161285936ed66528f00b3ddc1b"
+  },
+  {
+    "file": "analysis_outputs/CD403_Restaurant_Cuisines.geojson",
+    "bytes": 392343,
+    "sha256": "8119892816110c56d8020fbe14ada731c3381d7d662f98d270052b75f044eeed"
+  },
+  {
+    "file": "analysis_outputs/CD403_retail_corridor_recomputed.json",
+    "bytes": 229,
+    "sha256": "42331664ec98a0a8869e3bd61a65fa2cf0e7b861e7347182906379aadba2da9e"
+  },
+  {
+    "file": "analysis_outputs/nta_qn03.geojson",
+    "bytes": 20739,
+    "sha256": "1c73853304d5769fb7394bb30fc020fadd89f04e6c183c84c8a687a0216f9009"
+  },
+  {
+    "file": "analysis_outputs/removed_duplicate_permits.csv",
+    "bytes": 599,
+    "sha256": "e2e232ccc6e768d0835fc0d9bb40b8eb57675bf2c653b5b2d5ce600274f20805"
+  },
+  {
+    "file": "analysis_outputs/restaurants_cd403_walktime.csv",
+    "bytes": 96916,
+    "sha256": "ee77db867272225c598f8b3f8d3b133254f63c01ae95e2c81ce551dffd756bef"
+  },
+  {
+    "file": "analysis_outputs/restaurants_cd403_walktime.geojson",
+    "bytes": 308012,
+    "sha256": "43de84f57ce60027ac64ffe7fe36c9660fdfcf39063dd7649655ea0c01222a3e"
+  },
+  {
+    "file": "analysis_outputs/restaurants_sharing_a_coordinate.csv",
+    "bytes": 3578,
+    "sha256": "c33375aea61ffe91b5e60acd857b6c9fb27cde48910fc588a48a443c33abf90a"
+  },
+  {
+    "file": "analysis_outputs/schools_k12.geojson",
+    "bytes": 6374,
+    "sha256": "d33dd60341d1919b89d105990521de0c87efc8606601fc4a273208e6b7f5d4d3"
+  },
+  {
+    "file": "analysis_outputs/subway_entrances_used.geojson",
+    "bytes": 12933,
+    "sha256": "6f7a4cdbb60090134a4fe4c89780132e0c7ba87c39f726ab95f5b76f8a73ba77"
+  },
+  {
+    "file": "analysis_outputs/summary_by_corridor.csv",
+    "bytes": 450,
+    "sha256": "4ae692ee63d137b17d1d851f13e497110c88067c39cd512b37e97cfe35ea03d4"
+  },
+  {
+    "file": "analysis_outputs/summary_by_subarea.csv",
+    "bytes": 295,
+    "sha256": "56534ce9f67c6d63e4a06a0c743fe6864eee31c8d4bc74945b43df75e3498c3e"
+  },
+  {
+    "file": "analysis_outputs/summary_by_subarea_corridor.csv",
+    "bytes": 689,
+    "sha256": "607ef37c797135c5e68289bb921dc51aaa4fa652046ddd66e87872a30fc1dcab"
+  },
+  {
+    "file": "analysis_outputs/walkable_streets.geojson",
+    "bytes": 2374710,
+    "sha256": "5db7df0f82e56fdccafc713311905b1e70a0f5e06efcf418f066b27195bed84f"
+  },
+  {
+    "file": "analysis_outputs/walkshed_5_10min.geojson",
+    "bytes": 927625,
+    "sha256": "e2a1e84dbd1ae40d7e0784b207111bdc148b6f99fe07a555abacc48422574f58"
+  },
+  {
+    "file": "analysis_outputs/walkshed_5_10min_clipped_cd403.geojson",
+    "bytes": 212480,
+    "sha256": "5a1736f57699b6c36e0a55b886e0c809bba9b945ab8395242837f1580b241b71"
+  },
+  {
+    "file": "code/01_download.py",
+    "bytes": 1969,
+    "sha256": "a717706b98ab21bff979af259ceb84022a7c47c9d8db7fd8b0ac9efb73b89df6"
+  },
+  {
+    "file": "code/02_walktime.py",
+    "bytes": 11590,
+    "sha256": "1b8dc3933b17428d82afe764b9c7ff22994b3a8505f37a6d2031dbaf2f6c8ffd"
+  },
+  {
+    "file": "code/03_food_geography_and_cuisine_chart.py",
+    "bytes": 5801,
+    "sha256": "092391d7dc0a377019563c0cd905cb33f58bc2fd9772135bb33ab51efd9c159b"
+  },
+  {
+    "file": "code/04_population_composition.py",
+    "bytes": 2092,
+    "sha256": "6da8f4ad56ad8261305821afd56f250bb02fbd865469784bac75012a45266107"
+  },
+  {
+    "file": "code/05_retail_housing_schools_map.py",
+    "bytes": 4332,
+    "sha256": "2279d4aaa40549cf1101e336c13e5c781cdcd1a36d3f1768ae8cb04f1461e3dc"
+  },
+  {
+    "file": "code/06_walking_time_corridor_chart.py",
+    "bytes": 4749,
+    "sha256": "6c8b924f03463957af09638bfc11b96f662dd723330f6296a275144ccd78acb6"
+  },
+  {
+    "file": "code/07_retail_corridor_statistics.py",
+    "bytes": 1092,
+    "sha256": "76c95ef432a29c9ed703b6626c40a47c7082c75e325dde25e7fe8309bcde903f"
+  },
+  {
+    "file": "documentation/DATA_SOURCES.md",
+    "bytes": 868,
+    "sha256": "b7eb9fd06c9ff7434461e2bb14bb8aa99444080881d03d342169fcbf01433c8d"
+  },
+  {
+    "file": "documentation/DATA_STATUS.md",
+    "bytes": 1795,
+    "sha256": "cdaf729971c2270735d225f742fe3edd43262210cc9679b929c00304df7f60fe"
+  },
+  {
+    "file": "documentation/MAP_SETTINGS.md",
+    "bytes": 1012,
+    "sha256": "b83b7bf77e28a5d42171b9ccf51cec2fb1ef63cbbba3e41a9a37eea98fa2cb03"
+  },
+  {
+    "file": "documentation/RUN.md",
+    "bytes": 822,
+    "sha256": "ba9c76e5c58e2343f1dbfca3576160588898d9165509e631e8b1478cc837175c"
+  },
+  {
+    "file": "documentation/supplied_chapter2_methods.md",
+    "bytes": 7870,
+    "sha256": "84b2b3857430a6643d75a76462f542b7bee2af5709e5d361e3ffde4a3cbd9401"
+  },
+  {
+    "file": "images/CD403_Corridor_Cuisines.png",
+    "bytes": 151495,
+    "sha256": "1cb0005ce7be56f32abf0f5997a39330c751f94bdf29bfdbfd6d681b6e0587a9"
+  },
+  {
+    "file": "images/CD403_Population_Composition.png",
+    "bytes": 134687,
+    "sha256": "f5305e70b5e470b95df90f5ba57ecd9d7ecb9b17a4d730d2a4e70f0e79d20e6e"
+  },
+  {
+    "file": "images/CD403_Retail_Housing_Schools.png",
+    "bytes": 934927,
+    "sha256": "c48522720b3056167434a53015f50950fb6004b5c3e0616a0228e53746e36e67"
+  },
+  {
+    "file": "images/CD403_Walking_Time_By_Corridor.png",
+    "bytes": 171685,
+    "sha256": "e75fde6118a3dae15f3deb33183fed6f70ff67c1db971fe8c16b2c77d84e89a0"
+  },
+  {
+    "file": "map_definitions/A_study_area.json",
+    "bytes": 20271,
+    "sha256": "7ab436e30b61d86cb71961752613e85fb2d0e518d838c25a0a0d1a4f255ffa43"
+  },
+  {
+    "file": "map_definitions/B_walking_reach.json",
+    "bytes": 276995,
+    "sha256": "91f4a2bc23f5072af0bff66c18e1e99d8028e28cdb950a10cfe86ce511306dac"
+  },
+  {
+    "file": "raw_data/census_2020.xlsx",
+    "bytes": 1908897,
+    "sha256": "b92bf4a9267d700678a87b94ac87d3ea8f13e612e7f0846b5677ed1499c04ad6"
+  },
+  {
+    "file": "raw_data/pluto_26v2_area_extract.json",
+    "bytes": 8533883,
+    "sha256": "2ddb1d8bd690c059b2b5aa6712c97c0c4ba5490968feb81d6ead1616e1020639"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 76,
+    "sha256": "b692f851b2f156becfac8d774bde763860f40fff3925fafbb2313457ccede099"
+  }
+]

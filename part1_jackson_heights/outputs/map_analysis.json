@@ -1,0 +1,30 @@
+{
+  "restaurants": 329,
+  "retail_lots": 470,
+  "walk_bands": {
+    "5-10 min": 58,
+    "Over 10 min": 108,
+    "0-5 min": 163
+  },
+  "restaurant_snap_max_m": 11.23319548155793,
+  "entrance_snap_max_m": 29.15603003275821,
+  "cuisine_groups": {
+    "Other recorded cuisines": 132,
+    "Mexican": 22,
+    "East / Southeast Asian & Asian fusion": 36,
+    "South Asian": 25,
+    "Latin American / regional": 93,
+    "Unspecified": 21
+  },
+  "400": {
+    "restaurants": 163,
+    "retail_lots": 264,
+    "reachable_street_km": 14.61
+  },
+  "800": {
+    "restaurants": 221,
+    "retail_lots": 314,
+    "reachable_street_km": 32.43
+  },
+  "method": "CSCL pedestrian-eligible streets, bridges, tunnels, paths and steps; vehicle-only segments and alleys excluded. Bidirectional endpoint graph with elevation codes and 0.1m coordinate rounding. Entrances and destinations snapped to nearest eligible segment, connector distance included. 80m/min; no crossing waits, accessibility or schedules. Shaded street bands use 35m cartographic buffers, not parcel-level accessibility polygons."
+}

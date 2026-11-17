@@ -1,0 +1,225 @@
+{
+  "nta": {
+    "Orig Order": 299,
+    "GeoType": "NTA2020",
+    "Borough": "Queens",
+    "GeoID": "QN0301",
+    "BCT2020": null,
+    "Name": "Jackson Heights",
+    "CD Type": null,
+    "NTA Type": 0,
+    "Pop_10": 100866,
+    "Pop_10P": 100,
+    "HHPop_10": 100465,
+    "HHPop_10P": 99.6,
+    "GQ_10": 401,
+    "GQ_10P": 0.4,
+    "InstGQ_10": 270,
+    "InstGQ_10P": 0.3,
+    "AvHHSz_10": 2.9,
+    "AvHHSz_10P": null,
+    "PopU18_10": 20162,
+    "PopU18_10P": 20,
+    "Hsp_10": 56445,
+    "Hsp_10P": 56,
+    "WNH_10": 17860,
+    "WNH_10P": 17.7,
+    "BNH_10": 1692,
+    "BNH_10P": 1.7,
+    "ANH_10": 22609,
+    "ANH_10P": 22.4,
+    "ONH_10": 664,
+    "ONH_10P": 0.7,
+    "NH2pl_10": 1596,
+    "NH2pl_10P": 1.6,
+    "HUnits_10": 36540,
+    "HUnits_10P": 100,
+    "OcHU_10": 34642,
+    "OcHU_10P": 94.8,
+    "VacHU_10": 1898,
+    "VacHU_10P": 5.2,
+    "Pop_20": 101848,
+    "Pop_20P": 100,
+    "HHPop_20": 101315,
+    "HHPop_20P": 99.5,
+    "GQ_20": 533,
+    "GQ_20P": 0.5,
+    "InstGQ_20": 243,
+    "InstGQ_20P": 0.2,
+    "AvHHSz_20": 2.84,
+    "AvHHSz_20P": null,
+    "PopU18_20": 18731,
+    "PopU18_20P": 18.4,
+    "Hsp_20": 54270,
+    "Hsp_20P": 53.3,
+    "WNH_20": 15306,
+    "WNH_20P": 15,
+    "BNH_20": 1602,
+    "BNH_20P": 1.6,
+    "ANH_20": 27581,
+    "ANH_20P": 27.1,
+    "ONH_20": 1255,
+    "ONH_20P": 1.2,
+    "NH2pl_20": 1834,
+    "NH2pl_20P": 1.8,
+    "HUnits_20": 37428,
+    "HUnits_20P": 100,
+    "OcHU_20": 35700,
+    "OcHU_20P": 95.4,
+    "VacHU_20": 1728,
+    "VacHU_20P": 4.6,
+    "Pop_Ch": 982,
+    "Pop_PCh": 1,
+    "HHPop_Ch": 850,
+    "HHPop_PCh": 0.8,
+    "GQ_Ch": 132,
+    "GQ_PCh": 32.9,
+    "InstGQ_Ch": -27,
+    "InstGQ_PCh": -10,
+    "AvHHSz_Ch": -0.06000000000000005,
+    "AvHHSz_PCh": -2.1,
+    "PopU18_Ch": -1431,
+    "PopU18_PCh": -7.1,
+    "Hsp_Ch": -2175,
+    "Hsp_PCh": -3.9,
+    "WNH_Ch": -2554,
+    "WNH_PCh": -14.3,
+    "BNH_Ch": -90,
+    "BNH_PCh": -5.3,
+    "ANH_Ch": 4972,
+    "ANH_PCh": 22,
+    "ONH_Ch": 591,
+    "ONH_PCh": 89,
+    "NH2pl_Ch": 238,
+    "NH2pl_PCh": 14.9,
+    "HUnits_Ch": 888,
+    "HUnits_PCh": 2.4,
+    "OcHU_Ch": 1058,
+    "OcHU_PCh": 3.1,
+    "VacHU_Ch": -170,
+    "VacHU_PCh": -9,
+    "null": null
+  },
+  "tracts": [
+    {
+      "tract": "027302",
+      "population2020": 4765,
+      "diversity_index": 0.4255,
+      "restaurants2026": 13
+    },
+    {
+      "tract": "027500",
+      "population2020": 6773,
+      "diversity_index": 0.4454,
+      "restaurants2026": 17
+    },
+    {
+      "tract": "027701",
+      "population2020": 3448,
+      "diversity_index": 0.3973,
+      "restaurants2026": 12
+    },
+    {
+      "tract": "027702",
+      "population2020": 5196,
+      "diversity_index": 0.5572,
+      "restaurants2026": 12
+    },
+    {
+      "tract": "027900",
+      "population2020": 6358,
+      "diversity_index": 0.5602,
+      "restaurants2026": 22
+    },
+    {
+      "tract": "028100",
+      "population2020": 5991,
+      "diversity_index": 0.6197,
+      "restaurants2026": 28
+    },
+    {
+      "tract": "028300",
+      "population2020": 7523,
+      "diversity_index": 0.6361,
+      "restaurants2026": 33
+    },
+    {
+      "tract": "028500",
+      "population2020": 4858,
+      "diversity_index": 0.6791,
+      "restaurants2026": 27
+    },
+    {
+      "tract": "028700",
+      "population2020": 6544,
+      "diversity_index": 0.6974,
+      "restaurants2026": 24
+    },
+    {
+      "tract": "028900",
+      "population2020": 5202,
+      "diversity_index": 0.6765,
+      "restaurants2026": 34
+    },
+    {
+      "tract": "030903",
+      "population2020": 6748,
+      "diversity_index": 0.611,
+      "restaurants2026": 13
+    },
+    {
+      "tract": "032700",
+      "population2020": 3932,
+      "diversity_index": 0.5104,
+      "restaurants2026": 15
+    },
+    {
+      "tract": "033700",
+      "population2020": 3765,
+      "diversity_index": 0.4675,
+      "restaurants2026": 13
+    },
+    {
+      "tract": "033900",
+      "population2020": 3481,
+      "diversity_index": 0.5558,
+      "restaurants2026": 7
+    },
+    {
+      "tract": "035100",
+      "population2020": 4178,
+      "diversity_index": 0.5394,
+      "restaurants2026": 8
+    },
+    {
+      "tract": "027301",
+      "population2020": 3673,
+      "diversity_index": 0.2434,
+      "restaurants2026": 24
+    },
+    {
+      "tract": "030904",
+      "population2020": 3724,
+      "diversity_index": 0.6548,
+      "restaurants2026": 2
+    },
+    {
+      "tract": "030906",
+      "population2020": 4924,
+      "diversity_index": 0.6276,
+      "restaurants2026": 3
+    },
+    {
+      "tract": "030905",
+      "population2020": 3424,
+      "diversity_index": 0.6743,
+      "restaurants2026": 0
+    },
+    {
+      "tract": "029100",
+      "population2020": 7341,
+      "diversity_index": 0.5772,
+      "restaurants2026": 22
+    }
+  ]
+}

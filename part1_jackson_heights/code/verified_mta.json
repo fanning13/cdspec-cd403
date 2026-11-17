@@ -1,0 +1,1497 @@
+[
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "46 St",
+    "complex_id": "270",
+    "constituent_station_name": "46 St",
+    "station_id": "270",
+    "gtfs_stop_id": "G18",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.756634",
+    "entrance_longitude": "-73.9144105",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9144105,
+        40.756634
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "46 St",
+    "complex_id": "270",
+    "constituent_station_name": "46 St",
+    "station_id": "270",
+    "gtfs_stop_id": "G18",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7568842",
+    "entrance_longitude": "-73.9143001",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9143001,
+        40.7568842
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "52 St",
+    "complex_id": "457",
+    "constituent_station_name": "52 St",
+    "station_id": "457",
+    "gtfs_stop_id": "713",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.744067",
+    "entrance_longitude": "-73.91308",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.91308,
+        40.744067
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "52 St",
+    "complex_id": "457",
+    "constituent_station_name": "52 St",
+    "station_id": "457",
+    "gtfs_stop_id": "713",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.743933",
+    "entrance_longitude": "-73.913003",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.913003,
+        40.743933
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "46 St",
+    "complex_id": "270",
+    "constituent_station_name": "46 St",
+    "station_id": "270",
+    "gtfs_stop_id": "G18",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7558009",
+    "entrance_longitude": "-73.9126475",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9126475,
+        40.7558009
+      ]
+    }
+  },
+  {
+    "division": "BMT",
+    "line": "Astoria",
+    "borough": "Q",
+    "stop_name": "Astoria-Ditmars Blvd",
+    "complex_id": "1",
+    "constituent_station_name": "Astoria-Ditmars Blvd",
+    "station_id": "1",
+    "gtfs_stop_id": "R01",
+    "daytime_routes": "N W",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7749371",
+    "entrance_longitude": "-73.9123447",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9123447,
+        40.7749371
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "46 St",
+    "complex_id": "270",
+    "constituent_station_name": "46 St",
+    "station_id": "270",
+    "gtfs_stop_id": "G18",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.756029",
+    "entrance_longitude": "-73.91218",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.91218,
+        40.756029
+      ]
+    }
+  },
+  {
+    "division": "BMT",
+    "line": "Astoria",
+    "borough": "Q",
+    "stop_name": "Astoria-Ditmars Blvd",
+    "complex_id": "1",
+    "constituent_station_name": "Astoria-Ditmars Blvd",
+    "station_id": "1",
+    "gtfs_stop_id": "R01",
+    "daytime_routes": "N W",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7748094",
+    "entrance_longitude": "-73.9121624",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9121624,
+        40.7748094
+      ]
+    }
+  },
+  {
+    "division": "BMT",
+    "line": "Astoria",
+    "borough": "Q",
+    "stop_name": "Astoria-Ditmars Blvd",
+    "complex_id": "1",
+    "constituent_station_name": "Astoria-Ditmars Blvd",
+    "station_id": "1",
+    "gtfs_stop_id": "R01",
+    "daytime_routes": "N W",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.775172",
+    "entrance_longitude": "-73.9120581",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9120581,
+        40.775172
+      ]
+    }
+  },
+  {
+    "division": "BMT",
+    "line": "Astoria",
+    "borough": "Q",
+    "stop_name": "Astoria-Ditmars Blvd",
+    "complex_id": "1",
+    "constituent_station_name": "Astoria-Ditmars Blvd",
+    "station_id": "1",
+    "gtfs_stop_id": "R01",
+    "daytime_routes": "N W",
+    "entrance_type": "Easement - Passage",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7749098",
+    "entrance_longitude": "-73.9119884",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9119884,
+        40.7749098
+      ]
+    }
+  },
+  {
+    "division": "BMT",
+    "line": "Astoria",
+    "borough": "Q",
+    "stop_name": "Astoria-Ditmars Blvd",
+    "complex_id": "1",
+    "constituent_station_name": "Astoria-Ditmars Blvd",
+    "station_id": "1",
+    "gtfs_stop_id": "R01",
+    "daytime_routes": "N W",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7750479",
+    "entrance_longitude": "-73.911877",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.911877,
+        40.7750479
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "52 St",
+    "complex_id": "457",
+    "constituent_station_name": "52 St",
+    "station_id": "457",
+    "gtfs_stop_id": "713",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7444484",
+    "entrance_longitude": "-73.9113476",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9113476,
+        40.7444484
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "52 St",
+    "complex_id": "457",
+    "constituent_station_name": "52 St",
+    "station_id": "457",
+    "gtfs_stop_id": "713",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7446112",
+    "entrance_longitude": "-73.9113315",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9113315,
+        40.7446112
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Northern Blvd",
+    "complex_id": "269",
+    "constituent_station_name": "Northern Blvd",
+    "station_id": "269",
+    "gtfs_stop_id": "G16",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7530985",
+    "entrance_longitude": "-73.9071227",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9071227,
+        40.7530985
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Northern Blvd",
+    "complex_id": "269",
+    "constituent_station_name": "Northern Blvd",
+    "station_id": "269",
+    "gtfs_stop_id": "G16",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7534372",
+    "entrance_longitude": "-73.9068952",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9068952,
+        40.7534372
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "456",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Escalator",
+    "entry_allowed": "YES",
+    "exit_allowed": "NO",
+    "entrance_latitude": "40.7455308",
+    "entrance_longitude": "-73.9032919",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9032919,
+        40.7455308
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "456",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.745692",
+    "entrance_longitude": "-73.903234",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.903234,
+        40.745692
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "461",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7458485",
+    "entrance_longitude": "-73.903232",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.903232,
+        40.7458485
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "456",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Elevator",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7457662",
+    "entrance_longitude": "-73.903182",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.903182,
+        40.7457662
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "456",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.745717",
+    "entrance_longitude": "-73.903063",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.903063,
+        40.745717
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "458",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7459171",
+    "entrance_longitude": "-73.9027892",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9027892,
+        40.7459171
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "460",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7454163",
+    "entrance_longitude": "-73.9027804",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9027804,
+        40.7454163
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "457",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Elevator",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7458221",
+    "entrance_longitude": "-73.9026908",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9026908,
+        40.7458221
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "61 St-Woodside",
+    "complex_id": "459",
+    "constituent_station_name": "61 St-Woodside",
+    "station_id": "456",
+    "gtfs_stop_id": "712",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7455647",
+    "entrance_longitude": "-73.9023955",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.9023955,
+        40.7455647
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "65 St",
+    "complex_id": "268",
+    "constituent_station_name": "65 St",
+    "station_id": "268",
+    "gtfs_stop_id": "G15",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7491552",
+    "entrance_longitude": "-73.897499",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.897499,
+        40.7491552
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "65 St",
+    "complex_id": "268",
+    "constituent_station_name": "65 St",
+    "station_id": "268",
+    "gtfs_stop_id": "G15",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7493391",
+    "entrance_longitude": "-73.89738",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.89738,
+        40.7493391
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "69 St",
+    "complex_id": "455",
+    "constituent_station_name": "69 St",
+    "station_id": "455",
+    "gtfs_stop_id": "711",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.746148",
+    "entrance_longitude": "-73.896396",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.896396,
+        40.746148
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "69 St",
+    "complex_id": "455",
+    "constituent_station_name": "69 St",
+    "station_id": "455",
+    "gtfs_stop_id": "711",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7465474",
+    "entrance_longitude": "-73.8962773",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8962773,
+        40.7465474
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.747034",
+    "entrance_longitude": "-73.892555",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.892555,
+        40.747034
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Easement - Street",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7472534",
+    "entrance_longitude": "-73.8921113",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8921113,
+        40.7472534
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7465719",
+    "entrance_longitude": "-73.8914756",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8914756,
+        40.7465719
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "74 St-Broadway",
+    "station_id": "454",
+    "gtfs_stop_id": "710",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7471163",
+    "entrance_longitude": "-73.8914148",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8914148,
+        40.7471163
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Station House",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7466363",
+    "entrance_longitude": "-73.8909685",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8909685,
+        40.7466363
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Station House",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.746814",
+    "entrance_longitude": "-73.8909408",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8909408,
+        40.746814
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Station House",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7466852",
+    "entrance_longitude": "-73.8907723",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8907723,
+        40.7466852
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7463993",
+    "entrance_longitude": "-73.8902824",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8902824,
+        40.7463993
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Jackson Hts-Roosevelt Av/74 St-Broadway",
+    "complex_id": "616",
+    "constituent_station_name": "Jackson Hts-Roosevelt Av",
+    "station_id": "267",
+    "gtfs_stop_id": "G14",
+    "daytime_routes": "7 E F M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7459586",
+    "entrance_longitude": "-73.8901975",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8901975,
+        40.7459586
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "82 St-Jackson Hts",
+    "complex_id": "453",
+    "constituent_station_name": "82 St-Jackson Hts",
+    "station_id": "453",
+    "gtfs_stop_id": "709",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7478196",
+    "entrance_longitude": "-73.8840322",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8840322,
+        40.7478196
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "82 St-Jackson Hts",
+    "complex_id": "453",
+    "constituent_station_name": "82 St-Jackson Hts",
+    "station_id": "453",
+    "gtfs_stop_id": "709",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7474627",
+    "entrance_longitude": "-73.8839648",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8839648,
+        40.7474627
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "82 St-Jackson Hts",
+    "complex_id": "453",
+    "constituent_station_name": "82 St-Jackson Hts",
+    "station_id": "453",
+    "gtfs_stop_id": "709",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7478368",
+    "entrance_longitude": "-73.8838809",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8838809,
+        40.7478368
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Elmhurst Av",
+    "complex_id": "266",
+    "constituent_station_name": "Elmhurst Av",
+    "station_id": "266",
+    "gtfs_stop_id": "G13",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7427942",
+    "entrance_longitude": "-73.8830343",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8830343,
+        40.7427942
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Elmhurst Av",
+    "complex_id": "266",
+    "constituent_station_name": "Elmhurst Av",
+    "station_id": "266",
+    "gtfs_stop_id": "G13",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7429634",
+    "entrance_longitude": "-73.8827269",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8827269,
+        40.7429634
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Elmhurst Av",
+    "complex_id": "266",
+    "constituent_station_name": "Elmhurst Av",
+    "station_id": "266",
+    "gtfs_stop_id": "G13",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.741877",
+    "entrance_longitude": "-73.8814654",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8814654,
+        40.741877
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Elmhurst Av",
+    "complex_id": "266",
+    "constituent_station_name": "Elmhurst Av",
+    "station_id": "266",
+    "gtfs_stop_id": "G13",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7417271",
+    "entrance_longitude": "-73.8811841",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8811841,
+        40.7417271
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Elmhurst Av",
+    "complex_id": "266",
+    "constituent_station_name": "Elmhurst Av",
+    "station_id": "266",
+    "gtfs_stop_id": "G13",
+    "daytime_routes": "M R",
+    "entrance_type": "Easement - Street",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.742052",
+    "entrance_longitude": "-73.8810756",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8810756,
+        40.742052
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Grand Av-Newtown",
+    "complex_id": "265",
+    "constituent_station_name": "Grand Av-Newtown",
+    "station_id": "265",
+    "gtfs_stop_id": "G12",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7375079",
+    "entrance_longitude": "-73.8774159",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8774159,
+        40.7375079
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Grand Av-Newtown",
+    "complex_id": "265",
+    "constituent_station_name": "Grand Av-Newtown",
+    "station_id": "265",
+    "gtfs_stop_id": "G12",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7373292",
+    "entrance_longitude": "-73.8772103",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8772103,
+        40.7373292
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Grand Av-Newtown",
+    "complex_id": "265",
+    "constituent_station_name": "Grand Av-Newtown",
+    "station_id": "265",
+    "gtfs_stop_id": "G12",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7361017",
+    "entrance_longitude": "-73.8771659",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8771659,
+        40.7361017
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Grand Av-Newtown",
+    "complex_id": "265",
+    "constituent_station_name": "Grand Av-Newtown",
+    "station_id": "265",
+    "gtfs_stop_id": "G12",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7358946",
+    "entrance_longitude": "-73.8768826",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8768826,
+        40.7358946
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "90 St-Elmhurst Av",
+    "complex_id": "452",
+    "constituent_station_name": "90 St-Elmhurst Av",
+    "station_id": "452",
+    "gtfs_stop_id": "708",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.748601",
+    "entrance_longitude": "-73.876595",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.876595,
+        40.748601
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "90 St-Elmhurst Av",
+    "complex_id": "452",
+    "constituent_station_name": "90 St-Elmhurst Av",
+    "station_id": "452",
+    "gtfs_stop_id": "708",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7486137",
+    "entrance_longitude": "-73.8764603",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8764603,
+        40.7486137
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "90 St-Elmhurst Av",
+    "complex_id": "452",
+    "constituent_station_name": "90 St-Elmhurst Av",
+    "station_id": "452",
+    "gtfs_stop_id": "708",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7483345",
+    "entrance_longitude": "-73.8764271",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8764271,
+        40.7483345
+      ]
+    }
+  },
+  {
+    "division": "IND",
+    "line": "Queens Blvd",
+    "borough": "Q",
+    "stop_name": "Grand Av-Newtown",
+    "complex_id": "265",
+    "constituent_station_name": "Grand Av-Newtown",
+    "station_id": "265",
+    "gtfs_stop_id": "G12",
+    "daytime_routes": "M R",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.736292",
+    "entrance_longitude": "-73.8764169",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8764169,
+        40.736292
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "Junction Blvd",
+    "complex_id": "451",
+    "constituent_station_name": "Junction Blvd",
+    "station_id": "451",
+    "gtfs_stop_id": "707",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7492396",
+    "entrance_longitude": "-73.8696622",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8696622,
+        40.7492396
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "Junction Blvd",
+    "complex_id": "451",
+    "constituent_station_name": "Junction Blvd",
+    "station_id": "451",
+    "gtfs_stop_id": "707",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7490569",
+    "entrance_longitude": "-73.8696287",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8696287,
+        40.7490569
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "Junction Blvd",
+    "complex_id": "451",
+    "constituent_station_name": "Junction Blvd",
+    "station_id": "451",
+    "gtfs_stop_id": "707",
+    "daytime_routes": "7",
+    "entrance_type": "Elevator",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7493442",
+    "entrance_longitude": "-73.8694143",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8694143,
+        40.7493442
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "Junction Blvd",
+    "complex_id": "451",
+    "constituent_station_name": "Junction Blvd",
+    "station_id": "451",
+    "gtfs_stop_id": "707",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.749266",
+    "entrance_longitude": "-73.86922",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.86922,
+        40.749266
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "Junction Blvd",
+    "complex_id": "451",
+    "constituent_station_name": "Junction Blvd",
+    "station_id": "451",
+    "gtfs_stop_id": "707",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7490987",
+    "entrance_longitude": "-73.8691682",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8691682,
+        40.7490987
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "103 St-Corona Plaza",
+    "complex_id": "450",
+    "constituent_station_name": "103 St-Corona Plaza",
+    "station_id": "450",
+    "gtfs_stop_id": "706",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7499645",
+    "entrance_longitude": "-73.8625882",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8625882,
+        40.7499645
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "103 St-Corona Plaza",
+    "complex_id": "450",
+    "constituent_station_name": "103 St-Corona Plaza",
+    "station_id": "450",
+    "gtfs_stop_id": "706",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7497772",
+    "entrance_longitude": "-73.8625659",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8625659,
+        40.7497772
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "103 St-Corona Plaza",
+    "complex_id": "450",
+    "constituent_station_name": "103 St-Corona Plaza",
+    "station_id": "450",
+    "gtfs_stop_id": "706",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7499839",
+    "entrance_longitude": "-73.8623704",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8623704,
+        40.7499839
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "103 St-Corona Plaza",
+    "complex_id": "450",
+    "constituent_station_name": "103 St-Corona Plaza",
+    "station_id": "450",
+    "gtfs_stop_id": "706",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.7497985",
+    "entrance_longitude": "-73.8623284",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.8623284,
+        40.7497985
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "111 St",
+    "complex_id": "449",
+    "constituent_station_name": "111 St",
+    "station_id": "449",
+    "gtfs_stop_id": "705",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.75161",
+    "entrance_longitude": "-73.856065",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.856065,
+        40.75161
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "111 St",
+    "complex_id": "449",
+    "constituent_station_name": "111 St",
+    "station_id": "449",
+    "gtfs_stop_id": "705",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.751423",
+    "entrance_longitude": "-73.855996",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.855996,
+        40.751423
+      ]
+    }
+  },
+  {
+    "division": "IRT",
+    "line": "Flushing",
+    "borough": "Q",
+    "stop_name": "111 St",
+    "complex_id": "449",
+    "constituent_station_name": "111 St",
+    "station_id": "449",
+    "gtfs_stop_id": "705",
+    "daytime_routes": "7",
+    "entrance_type": "Stair",
+    "entry_allowed": "YES",
+    "exit_allowed": "YES",
+    "entrance_latitude": "40.751551",
+    "entrance_longitude": "-73.855628",
+    "entrance_georeference": {
+      "type": "Point",
+      "coordinates": [
+        -73.855628,
+        40.751551
+      ]
+    }
+  }
+]

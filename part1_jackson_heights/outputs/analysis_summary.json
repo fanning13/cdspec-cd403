@@ -1,0 +1,298 @@
+{
+  "raw_rows": 16185,
+  "bbox_unique": 1317,
+  "restaurants": 329,
+  "cuisine_categories": 38,
+  "cuisines": [
+    [
+      "Latin American",
+      81
+    ],
+    [
+      "American",
+      24
+    ],
+    [
+      "Mexican",
+      22
+    ],
+    [
+      "Unspecified",
+      21
+    ],
+    [
+      "Bakery Products/Desserts",
+      20
+    ],
+    [
+      "Bangladeshi",
+      15
+    ],
+    [
+      "Chinese",
+      15
+    ],
+    [
+      "Asian/Asian Fusion",
+      15
+    ],
+    [
+      "Pizza",
+      13
+    ],
+    [
+      "Peruvian",
+      11
+    ],
+    [
+      "Spanish",
+      11
+    ],
+    [
+      "Chicken",
+      9
+    ],
+    [
+      "Juice, Smoothies, Fruit Salads",
+      9
+    ],
+    [
+      "Coffee/Tea",
+      7
+    ],
+    [
+      "Indian",
+      6
+    ],
+    [
+      "Hamburgers",
+      6
+    ],
+    [
+      "Frozen Desserts",
+      5
+    ],
+    [
+      "Pakistani",
+      4
+    ],
+    [
+      "Japanese",
+      3
+    ],
+    [
+      "Thai",
+      3
+    ],
+    [
+      "French",
+      3
+    ],
+    [
+      "Tex-Mex",
+      3
+    ],
+    [
+      "Italian",
+      2
+    ],
+    [
+      "Irish",
+      2
+    ],
+    [
+      "Middle Eastern",
+      2
+    ],
+    [
+      "Sandwiches",
+      2
+    ],
+    [
+      "Steakhouse",
+      2
+    ],
+    [
+      "Seafood",
+      2
+    ],
+    [
+      "Other",
+      2
+    ],
+    [
+      "Brazilian",
+      1
+    ],
+    [
+      "Fusion",
+      1
+    ],
+    [
+      "Donuts",
+      1
+    ],
+    [
+      "Pancakes/Waffles",
+      1
+    ],
+    [
+      "Fruits/Vegetables",
+      1
+    ],
+    [
+      "Greek",
+      1
+    ],
+    [
+      "Tapas",
+      1
+    ],
+    [
+      "Bottled Beverages",
+      1
+    ],
+    [
+      "Continental",
+      1
+    ]
+  ],
+  "streets": [
+    [
+      "37 AVENUE",
+      90
+    ],
+    [
+      "NORTHERN BOULEVARD",
+      80
+    ],
+    [
+      "ROOSEVELT AVENUE",
+      53
+    ],
+    [
+      "31 AVENUE",
+      20
+    ],
+    [
+      "JUNCTION BOULEVARD",
+      13
+    ],
+    [
+      "73 STREET",
+      10
+    ],
+    [
+      "35 AVENUE",
+      7
+    ],
+    [
+      "90 STREET",
+      7
+    ],
+    [
+      "82 STREET",
+      7
+    ],
+    [
+      "37 ROAD",
+      6
+    ],
+    [
+      "74 STREET",
+      6
+    ],
+    [
+      "BROADWAY",
+      3
+    ],
+    [
+      "95 STREET",
+      3
+    ],
+    [
+      "34 AVENUE",
+      2
+    ],
+    [
+      "76 STREET",
+      2
+    ],
+    [
+      "NORTHERN BLVD",
+      2
+    ],
+    [
+      "79 STREET",
+      2
+    ],
+    [
+      "93 STREET",
+      2
+    ],
+    [
+      "80 STREET",
+      1
+    ],
+    [
+      "68 STREET",
+      1
+    ],
+    [
+      "72 STREET",
+      1
+    ],
+    [
+      "86 STREET",
+      1
+    ],
+    [
+      "77 STREET",
+      1
+    ],
+    [
+      "87 STREET",
+      1
+    ],
+    [
+      "81 STREET",
+      1
+    ],
+    [
+      "ASTORIA BOULEVARD",
+      1
+    ],
+    [
+      "A NORTHERN BOULEVARD",
+      1
+    ],
+    [
+      "93RD ST",
+      1
+    ],
+    [
+      "83 STREET",
+      1
+    ],
+    [
+      "89 STREET",
+      1
+    ],
+    [
+      "84 STREET",
+      1
+    ],
+    [
+      "94 STREET",
+      1
+    ]
+  ],
+  "tracts": 20,
+  "bounds": [
+    -73.89974199154351,
+    40.74681172763542,
+    -73.8694245844896,
+    40.76691443487074
+  ],
+  "uninspected": 21
+}

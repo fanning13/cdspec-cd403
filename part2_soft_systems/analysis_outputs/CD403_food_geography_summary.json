@@ -1,0 +1,95 @@
+{
+  "restaurants": 502,
+  "classified": 470,
+  "source_cuisines": 39,
+  "groups": {
+    "Unclassified": 32,
+    "Latin American / regional and Spanish": 165,
+    "Other recorded cuisines": 179,
+    "Mexican / Tex-Mex": 49,
+    "East / Southeast Asian and fusion": 51,
+    "South Asian": 26
+  },
+  "subareas": {
+    "Jackson Heights": 333,
+    "East Elmhurst": 54,
+    "North Corona": 115
+  },
+  "corridors": [
+    {
+      "corridor": "37th Avenue",
+      "n": 112,
+      "cuisines": 24,
+      "groups": {
+        "Unclassified": 4,
+        "Latin American / regional and Spanish": 35,
+        "East / Southeast Asian and fusion": 14,
+        "Other recorded cuisines": 44,
+        "Mexican / Tex-Mex": 7,
+        "South Asian": 8
+      }
+    },
+    {
+      "corridor": "Roosevelt Avenue",
+      "n": 80,
+      "cuisines": 19,
+      "groups": {
+        "Unclassified": 3,
+        "Mexican / Tex-Mex": 15,
+        "Other recorded cuisines": 15,
+        "Latin American / regional and Spanish": 39,
+        "East / Southeast Asian and fusion": 8
+      }
+    },
+    {
+      "corridor": "Northern Boulevard",
+      "n": 112,
+      "cuisines": 24,
+      "groups": {
+        "Unclassified": 11,
+        "Latin American / regional and Spanish": 47,
+        "Other recorded cuisines": 35,
+        "Mexican / Tex-Mex": 11,
+        "East / Southeast Asian and fusion": 7,
+        "South Asian": 1
+      }
+    },
+    {
+      "corridor": "Junction Boulevard",
+      "n": 32,
+      "cuisines": 19,
+      "groups": {
+        "Unclassified": 2,
+        "Latin American / regional and Spanish": 8,
+        "Other recorded cuisines": 16,
+        "East / Southeast Asian and fusion": 3,
+        "Mexican / Tex-Mex": 3
+      }
+    },
+    {
+      "corridor": "Astoria Boulevard",
+      "n": 19,
+      "cuisines": 11,
+      "groups": {
+        "Latin American / regional and Spanish": 4,
+        "East / Southeast Asian and fusion": 3,
+        "Other recorded cuisines": 11,
+        "Mexican / Tex-Mex": 1
+      }
+    },
+    {
+      "corridor": "Other streets",
+      "n": 147,
+      "cuisines": 29,
+      "groups": {
+        "Unclassified": 12,
+        "Latin American / regional and Spanish": 32,
+        "Other recorded cuisines": 58,
+        "East / Southeast Asian and fusion": 16,
+        "South Asian": 17,
+        "Mexican / Tex-Mex": 12
+      }
+    }
+  ],
+  "top_three_count": 304
+}
