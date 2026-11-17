@@ -1,0 +1,27 @@
+restaurants 513
+BG stats: pop median 1706.0 area median ha 6.1 restaurants per BG median 3.0 zeros 23
+
+== Block group level (n=103) Spearman with restaurant density ==
+dens       rho=+0.42 p=0.000
+p_hisp     rho=+0.23 p=0.018
+p_asian    rho=-0.14 p=0.156
+p_white    rho=-0.11 p=0.278
+p_black    rho=-0.31 p=0.002
+diversity  rho=-0.28 p=0.004
+
+== 400m grid (n=50) Spearman with restaurant count ==
+pop        rho=+0.56 p=0.000
+p_hisp     rho=+0.17 p=0.233
+p_asian    rho=-0.00 p=0.989
+p_white    rho=-0.02 p=0.916
+p_black    rho=-0.36 p=0.011
+
+== Cuisine group vs residents of restaurant's own block group ==
+             p_hisp  p_asian
+grp                         
+EastSEAsian   0.563    0.236
+Latin         0.729    0.136
+Other         0.611    0.206
+SouthAsian    0.278    0.485 
+counts {'Latin': 219, 'Other': 216, 'EastSEAsian': 52, 'SouthAsian': 26}
+district resident share hisp 0.634 asian 0.192
