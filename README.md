@@ -5,6 +5,10 @@ Shared data and scripts for our StoryMap **"Streets, Spaces & Shared Tables"**: 
 ## Folder structure
 
 ```
+images/                  all figures used in the StoryMap, grouped by part
+  part1_jackson_heights/ population, corridor comparison, land-use context (Part 1)
+  part2_soft_systems/    corridor cuisines, population composition, retail/housing/schools, walking time
+  part3_synthesis/       CD 403 locator map
 part1_jackson_heights/   Part 1 (hard system, original Jackson Heights scope): code, NYC Open Data extracts, map layers
 part2_soft_systems/      Part 2 (soft system, whole CD 403): restaurants, walk times, cuisines, PLUTO, census, charts
   analysis_outputs/      GeoJSON/CSV layers used in the StoryMap
@@ -16,8 +20,10 @@ part3_synthesis/         Part 3 (hard + soft): new CD 403 scope
   data/census/           2020 Census race/ethnicity (P2) for the 103 block groups in CD 403, plus a 400 m grid
   data/restaurants/      DOHMH records for community board 403 (raw + deduplicated by CAMIS, 17 Nov 2026)
   scripts/               census prep, population-restaurant correlation, locator map
-  outputs/               locator map and correlation results
+  outputs/               population-restaurant correlation results
 ```
+
+Note: the plotting scripts still save figures next to themselves; copy final versions into `images/`.
 
 Note: Part 1 used the Jackson Heights NTA only. For the final StoryMap the hard system is redone for all of CD 403 (Jackson Heights, East Elmhurst, North Corona).
 
