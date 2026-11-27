@@ -1,0 +1,6 @@
+﻿cgroup,n,rating_mean,rating_median,reviews_median,n_band,share_band,mid_mean,mid_median,lo_median,hi_median
+American/fast food,126.0,4.17,4.3,295.5,99.0,0.79,13.86,15.0,10.0,20.0
+East/SE Asian,46.0,4.19,4.2,191.5,44.0,0.96,16.95,15.0,10.0,20.0
+Latin American,194.0,4.08,4.1,278.0,152.0,0.78,24.57,25.0,15.0,30.0
+Other,45.0,4.3,4.4,83.0,17.0,0.38,26.79,25.0,20.0,30.0
+South Asian,25.0,4.04,4.0,449.0,21.0,0.84,17.38,15.0,10.0,20.0

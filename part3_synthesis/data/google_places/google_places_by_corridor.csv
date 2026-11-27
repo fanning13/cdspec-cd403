@@ -1,0 +1,7 @@
+﻿corridor,n,rating_mean,rating_median,reviews_median,n_band,share_band,mid_mean,mid_median,lo_median,hi_median
+37th Avenue,98.0,4.27,4.3,301.0,81.0,0.83,18.75,15.0,10.0,20.0
+Astoria Boulevard,17.0,4.04,4.0,587.0,16.0,0.94,18.53,15.0,10.0,20.0
+Junction Boulevard,31.0,4.09,4.2,177.0,27.0,0.87,16.56,15.0,10.0,20.0
+Northern Boulevard,96.0,4.13,4.1,371.0,78.0,0.81,22.35,15.0,10.0,20.0
+Other streets,123.0,4.17,4.2,188.5,80.0,0.65,17.7,15.0,10.0,20.0
+Roosevelt Avenue,71.0,3.96,4.0,249.0,51.0,0.72,24.26,25.0,10.0,30.0

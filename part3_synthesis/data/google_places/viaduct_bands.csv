@@ -1,0 +1,6 @@
+band,places,rating_mean,price_places,price_mid_median,latin_pct
+On Roosevelt Ave,79,3.99,56,22.5,69.62
+30 to 150 m,42,4.18,30,15.0,30.95
+150 to 300 m,131,4.21,109,15.0,35.88
+300 to 600 m,48,4.25,31,15.0,39.58
+Over 600 m,165,4.14,119,15.0,43.64

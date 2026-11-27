@@ -19,6 +19,7 @@ part3_synthesis/         Part 3 (hard + soft): new CD 403 scope
   data/boundaries/       boroughs, community districts, 2020 NTAs (GeoJSON, EPSG:4326)
   data/census/           2020 Census race/ethnicity (P2) for the 103 block groups in CD 403, plus a 400 m grid
   data/restaurants/      DOHMH records for community board 403 (raw + deduplicated by CAMIS, 17 Nov 2026)
+  data/google_places/    Google Places API snapshot for the restaurants (ratings, price ranges, place types; see its README)
   scripts/               census prep, population-restaurant correlation, locator map
   outputs/               population-restaurant correlation results
 ```
@@ -42,6 +43,7 @@ Note: Part 1 used the Jackson Heights NTA only. For the final StoryMap the hard 
 - U.S. Census Bureau, 2020 Redistricting Data (PL 94-171), New York; TIGER/Line 2020 block groups
 - NYC DOHMH Restaurant Inspection Results: https://data.cityofnewyork.us/d/43nn-pn8j (downloaded 17 Nov 2026)
 - NYC DCP boundaries via NYC Open Data: community districts (5crt-au7u), 2020 NTAs (9nt8-h7nd), boroughs (gthc-hcne)
+- Google Places API (ratings, price ranges, place types; fetched 23 Nov 2026; Google content, see `part3_synthesis/data/google_places/README.md`)
 
 ## Requirements
 
